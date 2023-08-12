@@ -3,15 +3,13 @@ public:
     int minLength(string s) {
         
         stack<char> st;
-        
-   
-            
-        
-for(int i=0;i<s.length();i++){
- if(st.empty()){
-         st.push(s[i]);
+          
+    for(int i=0;i<s.length();i++){
+        if(st.empty()){
+             st.push(s[i]);
      }
         else{
+            
             if(st.top()=='A' && s[i]=='B'){
                 
                 st.pop();
@@ -22,19 +20,18 @@ for(int i=0;i<s.length();i++){
             
             else{
                 st.push(s[i]);
-            }
-            
+            }   
         }
         }
+        
         string ans = "";
         
         while(!st.empty()){
-          ans+=st.top();
+        ans.push_back(st.top());
             st.pop();
         }
         
-        reverse(ans.begin(),ans.end());
-        
+        reverse(ans.begin(),ans.end());  
        cout<<ans;
         
         return ans.size();
