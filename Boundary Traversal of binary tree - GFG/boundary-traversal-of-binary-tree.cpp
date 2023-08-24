@@ -123,10 +123,6 @@ void TraversalLeft(Node* root , vector<int> &ans){
     else{
         TraversalLeft(root->right,ans);
     }
-    
-    
-    
-    
 }
 
 
@@ -152,8 +148,6 @@ void TraversalRight(Node* root, vector<int> & ans){
     if((root==NULL ) || (root->left == NULL && root->right ==NULL)){
         return;
     }
-        
-  
     
     if(root->right){
         TraversalRight(root->right,ans);
@@ -161,13 +155,8 @@ void TraversalRight(Node* root, vector<int> & ans){
     else{
         TraversalRight(root->left,ans);
     }
-    
-    
       ans.push_back(root->data);
-    
 }
-
-
     vector <int> boundary(Node *root)
     {
         //Your code here
@@ -176,12 +165,8 @@ void TraversalRight(Node* root, vector<int> & ans){
 
         if(root == NULL){
            return ans;
-            
         }
-        
         ans.push_back(root->data);
-        
-        
         
         TraversalLeft(root->left,ans);
         
@@ -190,10 +175,7 @@ void TraversalRight(Node* root, vector<int> & ans){
         TraversalLeaf(root->right,ans);
         
         TraversalRight(root->right,ans);
-        
-        
-
-    
+       
         return ans;
         
     }
