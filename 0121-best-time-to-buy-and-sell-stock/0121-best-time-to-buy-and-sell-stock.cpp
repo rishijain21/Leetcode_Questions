@@ -9,8 +9,7 @@ public:
             
                 minpri = min(minpri,prices[i]);
                     
-                    
-                    maxprof = max(maxprof, prices[i] - minpri);
+                maxprof = max(maxprof, prices[i] - minpri);
                 
               
             }            
