@@ -7,6 +7,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishijain21/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/rishijain21/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/rishijain21/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -24,4 +25,12 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rishijain21/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rishijain21/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rishijain21/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
