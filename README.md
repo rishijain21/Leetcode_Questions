@@ -9,6 +9,7 @@ Collection of LeetCode questions
 | [0001-two-sum](https://github.com/rishijain21/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/rishijain21/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rishijain21/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishijain21/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/rishijain21/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ Collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishijain21/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/rishijain21/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
