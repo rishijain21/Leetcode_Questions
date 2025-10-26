@@ -7,6 +7,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishijain21/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0047-permutations-ii](https://github.com/rishijain21/Leetcode_Questions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/rishijain21/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rishijain21/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishijain21/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -37,4 +38,12 @@ Collection of LeetCode questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishijain21/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rishijain21/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/rishijain21/Leetcode_Questions/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/rishijain21/Leetcode_Questions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
