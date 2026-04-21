@@ -71,4 +71,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rishijain21/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/rishijain21/Leetcode_Questions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
