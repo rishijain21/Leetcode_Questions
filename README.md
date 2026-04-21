@@ -16,6 +16,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishijain21/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/rishijain21/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,16 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rishijain21/Leetcode_Questions/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rishijain21/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rishijain21/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rishijain21/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
