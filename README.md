@@ -16,6 +16,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishijain21/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishijain21/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishijain21/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ Collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishijain21/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishijain21/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -75,4 +77,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/rishijain21/Leetcode_Questions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishijain21/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
