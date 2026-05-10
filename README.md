@@ -95,6 +95,7 @@ Collection of LeetCode questions
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rishijain21/Leetcode_Questions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/rishijain21/Leetcode_Questions/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/rishijain21/Leetcode_Questions/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rishijain21/Leetcode_Questions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rishijain21/Leetcode_Questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rishijain21/Leetcode_Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Sliding Window
