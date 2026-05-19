@@ -22,6 +22,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rishijain21/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/rishijain21/Leetcode_Questions/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishijain21/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/rishijain21/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishijain21/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
