@@ -7,6 +7,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishijain21/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rishijain21/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0047-permutations-ii](https://github.com/rishijain21/Leetcode_Questions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/rishijain21/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rishijain21/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
@@ -22,6 +23,7 @@ Collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishijain21/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/rishijain21/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishijain21/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/rishijain21/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
@@ -110,4 +112,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishijain21/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rishijain21/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
